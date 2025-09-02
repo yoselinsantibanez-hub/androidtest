@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    //uwuu
+    //ususuusus
     public void enviarDatos(){
         String nombre = editTextNombre.getText().toString();
         Intent intent = new Intent(MainActivity.this, Activity2.class);
